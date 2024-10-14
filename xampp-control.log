@@ -1,0 +1,317 @@
+12:21:08 a. m.  [main] 	Initializing Control Panel
+12:21:08 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:21:08 a. m.  [main] 	XAMPP Version: 8.2.12
+12:21:08 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:21:08 a. m.  [main] 	Running with Administrator rights - good!
+12:21:08 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:21:08 a. m.  [main] 	Checking for prerequisites
+12:21:08 a. m.  [main] 	All prerequisites found
+12:21:08 a. m.  [main] 	Initializing Modules
+12:21:08 a. m.  [main] 	The FileZilla module is disabled
+12:21:08 a. m.  [main] 	The Mercury module is disabled
+12:21:08 a. m.  [main] 	Starting Check-Timer
+12:21:08 a. m.  [main] 	Control Panel Ready
+12:21:25 a. m.  [main] 	Executing "services.msc"
+12:21:43 a. m.  [Apache] 	Attempting to start Apache app...
+12:21:44 a. m.  [Apache] 	Status change detected: running
+12:21:44 a. m.  [mysql] 	Attempting to start MySQL app...
+12:21:45 a. m.  [mysql] 	Status change detected: running
+12:27:39 a. m.  [Apache] 	Attempting to stop Apache (PID: 11432)
+12:27:39 a. m.  [Apache] 	Attempting to stop Apache (PID: 15968)
+12:27:39 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:27:40 a. m.  [Apache] 	Status change detected: stopped
+12:27:40 a. m.  [mysql] 	Status change detected: stopped
+12:28:06 a. m.  [main] 	Deinitializing Modules
+12:28:06 a. m.  [main] 	Deinitializing Control Panel
+
+12:28:36 a. m.  [main] 	Initializing Control Panel
+12:28:36 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:28:36 a. m.  [main] 	XAMPP Version: 8.2.12
+12:28:36 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:28:36 a. m.  [main] 	Running with Administrator rights - good!
+12:28:36 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:28:36 a. m.  [main] 	Checking for prerequisites
+12:28:36 a. m.  [main] 	All prerequisites found
+12:28:36 a. m.  [main] 	Initializing Modules
+12:28:36 a. m.  [main] 	The FileZilla module is disabled
+12:28:36 a. m.  [main] 	The Mercury module is disabled
+12:28:36 a. m.  [main] 	Starting Check-Timer
+12:28:36 a. m.  [main] 	Control Panel Ready
+12:28:37 a. m.  [Apache] 	Attempting to start Apache app...
+12:28:38 a. m.  [Apache] 	Status change detected: running
+12:28:38 a. m.  [mysql] 	Attempting to start MySQL app...
+12:28:38 a. m.  [mysql] 	Status change detected: running
+12:29:31 a. m.  [main] 	Deinitializing Modules
+12:29:31 a. m.  [main] 	Deinitializing Control Panel
+
+12:29:40 a. m.  [main] 	Initializing Control Panel
+12:29:40 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:29:40 a. m.  [main] 	XAMPP Version: 8.2.12
+12:29:40 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:29:40 a. m.  [main] 	Running with Administrator rights - good!
+12:29:40 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:29:40 a. m.  [main] 	Checking for prerequisites
+12:29:40 a. m.  [main] 	All prerequisites found
+12:29:40 a. m.  [main] 	Initializing Modules
+12:29:40 a. m.  [Apache] 	XAMPP Apache is already running on port 80
+12:29:40 a. m.  [Apache] 	XAMPP Apache is already running on port 443
+12:29:40 a. m.  [main] 	The FileZilla module is disabled
+12:29:40 a. m.  [main] 	The Mercury module is disabled
+12:29:40 a. m.  [main] 	Starting Check-Timer
+12:29:40 a. m.  [main] 	Control Panel Ready
+12:29:42 a. m.  [Apache] 	Attempting to stop Apache (PID: 16692)
+12:29:42 a. m.  [Apache] 	Attempting to stop Apache (PID: 7544)
+12:29:42 a. m.  [Apache] 	Status change detected: stopped
+12:29:43 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:29:43 a. m.  [mysql] 	Status change detected: stopped
+12:29:44 a. m.  [Apache] 	Attempting to start Apache app...
+12:29:44 a. m.  [Apache] 	Status change detected: running
+12:29:44 a. m.  [mysql] 	Attempting to start MySQL app...
+12:29:45 a. m.  [mysql] 	Status change detected: running
+12:31:55 a. m.  [Apache] 	Attempting to stop Apache (PID: 1512)
+12:31:55 a. m.  [Apache] 	Attempting to stop Apache (PID: 12768)
+12:31:55 a. m.  [Apache] 	Status change detected: stopped
+12:31:56 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:31:56 a. m.  [mysql] 	Status change detected: stopped
+12:32:21 a. m.  [main] 	Executing "services.msc"
+12:32:24 a. m.  [main] 	Deinitializing Modules
+12:32:24 a. m.  [main] 	Deinitializing Control Panel
+
+12:20:56 a. m.  [main] 	Initializing Control Panel
+12:20:57 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:20:57 a. m.  [main] 	XAMPP Version: 8.2.12
+12:20:57 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:20:57 a. m.  [main] 	Running with Administrator rights - good!
+12:20:57 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:20:57 a. m.  [main] 	Checking for prerequisites
+12:20:59 a. m.  [main] 	All prerequisites found
+12:20:59 a. m.  [main] 	Initializing Modules
+12:20:59 a. m.  [main] 	The FileZilla module is disabled
+12:20:59 a. m.  [main] 	The Mercury module is disabled
+12:20:59 a. m.  [main] 	Starting Check-Timer
+12:20:59 a. m.  [main] 	Control Panel Ready
+12:21:44 a. m.  [Apache] 	Status change detected: running
+12:21:45 a. m.  [mysql] 	Status change detected: running
+12:27:40 a. m.  [Apache] 	Status change detected: stopped
+12:27:40 a. m.  [Apache] 	Error: Apache shutdown unexpectedly.
+12:27:40 a. m.  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:27:40 a. m.  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:27:40 a. m.  [Apache] 	Press the Logs button to view error logs and check
+12:27:40 a. m.  [Apache] 	the Windows Event Viewer for more clues
+12:27:40 a. m.  [Apache] 	If you need more help, copy and post this
+12:27:40 a. m.  [Apache] 	entire log window on the forums
+12:27:40 a. m.  [mysql] 	Status change detected: stopped
+12:27:40 a. m.  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:27:40 a. m.  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:27:40 a. m.  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:27:40 a. m.  [mysql] 	Press the Logs button to view error logs and check
+12:27:40 a. m.  [mysql] 	the Windows Event Viewer for more clues
+12:27:40 a. m.  [mysql] 	If you need more help, copy and post this
+12:27:40 a. m.  [mysql] 	entire log window on the forums
+12:28:38 a. m.  [Apache] 	Status change detected: running
+12:28:38 a. m.  [mysql] 	Status change detected: running
+12:29:43 a. m.  [Apache] 	Status change detected: stopped
+12:29:43 a. m.  [Apache] 	Error: Apache shutdown unexpectedly.
+12:29:43 a. m.  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:29:43 a. m.  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:29:43 a. m.  [Apache] 	Press the Logs button to view error logs and check
+12:29:43 a. m.  [Apache] 	the Windows Event Viewer for more clues
+12:29:43 a. m.  [Apache] 	If you need more help, copy and post this
+12:29:43 a. m.  [Apache] 	entire log window on the forums
+12:29:43 a. m.  [mysql] 	Status change detected: stopped
+12:29:43 a. m.  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:29:43 a. m.  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:29:43 a. m.  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:29:43 a. m.  [mysql] 	Press the Logs button to view error logs and check
+12:29:43 a. m.  [mysql] 	the Windows Event Viewer for more clues
+12:29:43 a. m.  [mysql] 	If you need more help, copy and post this
+12:29:43 a. m.  [mysql] 	entire log window on the forums
+12:29:44 a. m.  [Apache] 	Status change detected: running
+12:29:45 a. m.  [mysql] 	Status change detected: running
+12:31:55 a. m.  [Apache] 	Status change detected: stopped
+12:31:55 a. m.  [Apache] 	Error: Apache shutdown unexpectedly.
+12:31:55 a. m.  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:31:55 a. m.  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:31:55 a. m.  [Apache] 	Press the Logs button to view error logs and check
+12:31:55 a. m.  [Apache] 	the Windows Event Viewer for more clues
+12:31:55 a. m.  [Apache] 	If you need more help, copy and post this
+12:31:55 a. m.  [Apache] 	entire log window on the forums
+12:31:56 a. m.  [mysql] 	Status change detected: stopped
+12:31:56 a. m.  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:31:56 a. m.  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:31:56 a. m.  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:31:56 a. m.  [mysql] 	Press the Logs button to view error logs and check
+12:31:56 a. m.  [mysql] 	the Windows Event Viewer for more clues
+12:31:56 a. m.  [mysql] 	If you need more help, copy and post this
+12:31:56 a. m.  [mysql] 	entire log window on the forums
+12:32:38 a. m.  [Apache] 	Status change detected: running
+12:32:38 a. m.  [mysql] 	Status change detected: running
+12:34:12 a. m.  [main] 	Deinitializing Modules
+12:34:12 a. m.  [main] 	Deinitializing Control Panel
+
+12:29:33 a. m.  [main] 	Initializing Control Panel
+12:29:33 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:29:33 a. m.  [main] 	XAMPP Version: 8.2.12
+12:29:33 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:29:33 a. m.  [main] 	You are not running with administrator rights! This will work for
+12:29:33 a. m.  [main] 	most application stuff but whenever you do something with services
+12:29:33 a. m.  [main] 	there will be a security dialogue or things will break! So think 
+12:29:33 a. m.  [main] 	about running this application with administrator rights!
+12:29:33 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:29:33 a. m.  [main] 	Checking for prerequisites
+12:29:33 a. m.  [main] 	All prerequisites found
+12:29:33 a. m.  [main] 	Initializing Modules
+12:29:33 a. m.  [Apache] 	Problem detected!
+12:29:33 a. m.  [Apache] 	Port 80 in use by "Unable to open process" with PID 16692!
+12:29:33 a. m.  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:29:33 a. m.  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:29:33 a. m.  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:29:33 a. m.  [Apache] 	Problem detected!
+12:29:33 a. m.  [Apache] 	Port 443 in use by "Unable to open process" with PID 16692!
+12:29:33 a. m.  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:29:33 a. m.  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:29:33 a. m.  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:29:33 a. m.  [main] 	The FileZilla module is disabled
+12:29:33 a. m.  [main] 	The Mercury module is disabled
+12:29:33 a. m.  [main] 	Starting Check-Timer
+12:29:33 a. m.  [main] 	Control Panel Ready
+12:32:38 a. m.  [Apache] 	Status change detected: running
+12:32:38 a. m.  [mysql] 	Status change detected: running
+12:34:14 a. m.  [main] 	Deinitializing Modules
+12:34:14 a. m.  [main] 	Deinitializing Control Panel
+
+12:36:28 a. m.  [main] 	Initializing Control Panel
+12:36:28 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:36:28 a. m.  [main] 	XAMPP Version: 8.2.12
+12:36:28 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:36:28 a. m.  [main] 	You are not running with administrator rights! This will work for
+12:36:28 a. m.  [main] 	most application stuff but whenever you do something with services
+12:36:28 a. m.  [main] 	there will be a security dialogue or things will break! So think 
+12:36:28 a. m.  [main] 	about running this application with administrator rights!
+12:36:28 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:36:28 a. m.  [main] 	Checking for prerequisites
+12:36:28 a. m.  [main] 	All prerequisites found
+12:36:28 a. m.  [main] 	Initializing Modules
+12:36:28 a. m.  [mysql] 	XAMPP MySQL is already running on port 3306
+12:36:28 a. m.  [main] 	The FileZilla module is disabled
+12:36:28 a. m.  [main] 	The Mercury module is disabled
+12:36:28 a. m.  [main] 	Starting Check-Timer
+12:36:28 a. m.  [main] 	Control Panel Ready
+12:36:31 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:36:31 a. m.  [mysql] 	Status change detected: stopped
+01:32:11 a. m.  [main] 	Deinitializing Modules
+01:32:11 a. m.  [main] 	Deinitializing Control Panel
+
+12:36:35 a. m.  [main] 	Initializing Control Panel
+12:36:35 a. m.  [main] 	Windows Version:  Enterprise  64-bit
+12:36:35 a. m.  [main] 	XAMPP Version: 8.2.12
+12:36:35 a. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:36:35 a. m.  [main] 	Running with Administrator rights - good!
+12:36:35 a. m.  [main] 	XAMPP Installation Directory: "c:\prestashopxampp\"
+12:36:35 a. m.  [main] 	Checking for prerequisites
+12:36:35 a. m.  [main] 	All prerequisites found
+12:36:35 a. m.  [main] 	Initializing Modules
+12:36:36 a. m.  [main] 	The FileZilla module is disabled
+12:36:36 a. m.  [main] 	The Mercury module is disabled
+12:36:36 a. m.  [main] 	Starting Check-Timer
+12:36:36 a. m.  [main] 	Control Panel Ready
+12:36:37 a. m.  [Apache] 	Attempting to start Apache app...
+12:36:37 a. m.  [mysql] 	Attempting to start MySQL app...
+12:36:37 a. m.  [Apache] 	Status change detected: running
+12:36:37 a. m.  [mysql] 	Status change detected: running
+12:42:43 a. m.  [main] 	Executing "c:\prestashopxampp\"
+12:46:21 a. m.  [Apache] 	Attempting to stop Apache (PID: 16492)
+12:46:21 a. m.  [Apache] 	Attempting to stop Apache (PID: 16608)
+12:46:22 a. m.  [Apache] 	Status change detected: stopped
+12:46:22 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:46:22 a. m.  [mysql] 	Status change detected: stopped
+12:46:26 a. m.  [Apache] 	Attempting to start Apache app...
+12:46:26 a. m.  [Apache] 	Status change detected: running
+12:46:27 a. m.  [mysql] 	Attempting to start MySQL app...
+12:46:27 a. m.  [mysql] 	Status change detected: running
+12:50:14 a. m.  [Apache] 	Attempting to stop Apache (PID: 16540)
+12:50:14 a. m.  [Apache] 	Attempting to stop Apache (PID: 16484)
+12:50:15 a. m.  [Apache] 	Status change detected: stopped
+12:50:15 a. m.  [Apache] 	Attempting to start Apache app...
+12:50:15 a. m.  [Apache] 	Status change detected: running
+12:50:16 a. m.  [mysql] 	Attempting to stop MySQL app...
+12:50:16 a. m.  [mysql] 	Status change detected: stopped
+12:50:16 a. m.  [mysql] 	Attempting to start MySQL app...
+12:50:17 a. m.  [mysql] 	Status change detected: running
+12:53:15 a. m.  [Apache] 	Attempting to stop Apache (PID: 11024)
+12:53:15 a. m.  [Apache] 	Attempting to stop Apache (PID: 15644)
+12:53:15 a. m.  [Apache] 	Status change detected: stopped
+12:53:16 a. m.  [Apache] 	Attempting to start Apache app...
+12:53:16 a. m.  [Apache] 	Status change detected: running
+01:01:27 a. m.  [Apache] 	Attempting to stop Apache (PID: 5292)
+01:01:27 a. m.  [Apache] 	Attempting to stop Apache (PID: 15092)
+01:01:27 a. m.  [Apache] 	Status change detected: stopped
+01:01:27 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:01:28 a. m.  [mysql] 	Status change detected: stopped
+01:01:29 a. m.  [mysql] 	Attempting to start MySQL app...
+01:01:29 a. m.  [mysql] 	Status change detected: running
+01:01:30 a. m.  [Apache] 	Attempting to start Apache app...
+01:01:30 a. m.  [Apache] 	Status change detected: running
+01:01:52 a. m.  [Apache] 	Attempting to stop Apache (PID: 6060)
+01:01:52 a. m.  [Apache] 	Attempting to stop Apache (PID: 10868)
+01:01:52 a. m.  [Apache] 	Status change detected: stopped
+01:01:52 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:01:53 a. m.  [mysql] 	Status change detected: stopped
+01:01:53 a. m.  [Apache] 	Attempting to start Apache app...
+01:01:53 a. m.  [Apache] 	Status change detected: running
+01:01:55 a. m.  [mysql] 	Attempting to start MySQL app...
+01:01:55 a. m.  [mysql] 	Status change detected: running
+01:09:34 a. m.  [Apache] 	Attempting to stop Apache (PID: 3492)
+01:09:34 a. m.  [Apache] 	Attempting to stop Apache (PID: 17860)
+01:09:34 a. m.  [Apache] 	Status change detected: stopped
+01:09:35 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:09:35 a. m.  [mysql] 	Status change detected: stopped
+01:09:35 a. m.  [Apache] 	Attempting to start Apache app...
+01:09:36 a. m.  [Apache] 	Status change detected: running
+01:09:36 a. m.  [mysql] 	Attempting to start MySQL app...
+01:09:36 a. m.  [mysql] 	Status change detected: running
+01:14:25 a. m.  [Apache] 	Attempting to stop Apache (PID: 8940)
+01:14:25 a. m.  [Apache] 	Attempting to stop Apache (PID: 10932)
+01:14:25 a. m.  [Apache] 	Status change detected: stopped
+01:14:26 a. m.  [Apache] 	Attempting to start Apache app...
+01:14:26 a. m.  [Apache] 	Status change detected: running
+01:27:59 a. m.  [Apache] 	Attempting to stop Apache (PID: 16228)
+01:27:59 a. m.  [Apache] 	Attempting to stop Apache (PID: 10068)
+01:27:59 a. m.  [Apache] 	Status change detected: stopped
+01:28:01 a. m.  [Apache] 	Attempting to start Apache app...
+01:28:01 a. m.  [Apache] 	Status change detected: running
+01:29:21 a. m.  [Apache] 	Attempting to stop Apache (PID: 12668)
+01:29:21 a. m.  [Apache] 	Attempting to stop Apache (PID: 15984)
+01:29:21 a. m.  [Apache] 	Status change detected: stopped
+01:29:21 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:29:22 a. m.  [mysql] 	Status change detected: stopped
+01:29:22 a. m.  [Apache] 	Attempting to start Apache app...
+01:29:22 a. m.  [Apache] 	Status change detected: running
+01:29:22 a. m.  [mysql] 	Attempting to start MySQL app...
+01:29:23 a. m.  [mysql] 	Status change detected: running
+01:30:00 a. m.  [Apache] 	Attempting to stop Apache (PID: 14944)
+01:30:00 a. m.  [Apache] 	Attempting to stop Apache (PID: 17520)
+01:30:01 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:30:01 a. m.  [Apache] 	Status change detected: stopped
+01:30:01 a. m.  [mysql] 	Status change detected: stopped
+01:30:02 a. m.  [mysql] 	Attempting to start MySQL app...
+01:30:02 a. m.  [mysql] 	Status change detected: running
+01:30:03 a. m.  [Apache] 	Attempting to start Apache app...
+01:30:03 a. m.  [Apache] 	Status change detected: running
+01:31:47 a. m.  [Apache] 	Attempting to stop Apache (PID: 16480)
+01:31:47 a. m.  [Apache] 	Attempting to stop Apache (PID: 14448)
+01:31:47 a. m.  [Apache] 	Status change detected: stopped
+01:31:48 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:31:48 a. m.  [mysql] 	Status change detected: stopped
+01:31:48 a. m.  [Apache] 	Attempting to start Apache app...
+01:31:49 a. m.  [Apache] 	Status change detected: running
+01:31:49 a. m.  [mysql] 	Attempting to start MySQL app...
+01:31:49 a. m.  [mysql] 	Status change detected: running
+01:32:08 a. m.  [mysql] 	Attempting to stop MySQL app...
+01:32:08 a. m.  [mysql] 	Status change detected: stopped
+01:32:08 a. m.  [Apache] 	Attempting to stop Apache (PID: 12088)
+01:32:08 a. m.  [Apache] 	Attempting to stop Apache (PID: 9132)
+01:32:09 a. m.  [Apache] 	Status change detected: stopped
+01:32:12 a. m.  [main] 	Deinitializing Modules
+01:32:12 a. m.  [main] 	Deinitializing Control Panel
+
