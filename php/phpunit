@@ -1,4 +1,4 @@
-#!\PrestashopXAMPP\php\.\php.exe
+#!\camino_sierra_prestashop\php\.\php.exe
 <?php
 /* PHPUnit
  *
@@ -37,10 +37,10 @@
 
 define('PHPUnit_MAIN_METHOD', 'PHPUnit_TextUI_Command::main');
 
-if (strpos('\PrestashopXAMPP\php\.\php.exe', '@php_bin') === 0) {
+if (strpos('\camino_sierra_prestashop\php\.\php.exe', '@php_bin') === 0) {
     require dirname(__FILE__) . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
 } else {
-    require '\PrestashopXAMPP\php\pear' . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
+    require '\camino_sierra_prestashop\php\pear' . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
 }
 
 PHPUnit_TextUI_Command::main();

@@ -85,6 +85,6 @@ class __TwigTemplate_5a4ee68e15f9a197b5adf5e2a61df55f extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/save_banner.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\save_banner.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/save_banner.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\save_banner.html.twig");
     }
 }

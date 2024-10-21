@@ -69,6 +69,6 @@ class __TwigTemplate_33d1f1a712c44c23b7b19940b4c98851 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/colors/Blocks/Colors/colors_description.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\colors\\Blocks\\Colors\\colors_description.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/colors/Blocks/Colors/colors_description.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\colors\\Blocks\\Colors\\colors_description.html.twig");
     }
 }

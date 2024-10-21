@@ -1,0 +1,51 @@
+﻿ID,Categoria,Nombre,Descripcion,Precio,Cantidad,Imagen
+101,Accesorios,Collar de cuentas de vidrio,Collar hecho a mano con cuentas de vidrio soplado ensartado en hilo de algodón trenzado.,356,50,http://localhost/prestashop/img/Imagenes/Accesorios/1.jpeg
+102,Accesorios,Pulsera de cuero trenzado,Pulsera tejida a mano con tiras de cuero curtido cierre de metal reciclado.,275,50,http://localhost/prestashop/img/Imagenes/Accesorios/2.jpeg
+103,Accesorios,Pendientes de plata oxidada,Pendientes de plata pura modelados y oxidados a mano para un acabado envejecido.,460,50,http://localhost/prestashop/img/Imagenes/Accesorios/3.jpeg
+104,Accesorios,Sombrero de lana,Sombrero tejido a mano con lana natural teñido con tintes vegetales.,520,50,http://localhost/prestashop/img/Imagenes/Accesorios/4.jpeg
+105,Accesorios,Bufanda de seda pintada,Bufanda de seda natural pintada a mano con motivos florales.,620,50,http://localhost/prestashop/img/Imagenes/Accesorios/5.jpeg
+106,Accesorios,Cinturón de cuero repujado,Cinturón de cuero hecho a mano con diseños repujados y teñido a mano.,410,50,http://localhost/prestashop/img/Imagenes/Accesorios/6.jpeg
+107,Accesorios,Gafas de madera reciclada,Gafas de sol con marco hecho de madera reciclada tallado a mano.,730,50,http://localhost/prestashop/img/Imagenes/Accesorios/7.jpeg
+108,Accesorios,Anillo de cobre martillado,Anillo hecho a mano utilizando cobre martillado y pulido para un acabado rústico.,385,50,http://localhost/prestashop/img/Imagenes/Accesorios/8.jpeg
+109,Accesorios,Broche de piedra natural,Broche elaborado con piedras naturales montado en alpaca y trabajado a mano.,470,50,http://localhost/prestashop/img/Imagenes/Accesorios/9.jpeg
+110,Accesorios,Tocado de flores secas,Tocado artesanal con flores secas preservadas montado a mano sobre estructura de alambre de cobre.,345,50,http://localhost/prestashop/img/Imagenes/Accesorios/10.jpeg
+111,Ropa,Chaleco de alpaca,Chaleco tejido a mano con lana de alpaca con cierre de botones de madera tallados.,950,50,http://localhost/prestashop/img/Imagenes/Ropa/11.jpeg
+112,Ropa,Vestido de lino bordado,Vestido de lino natural bordado a mano con motivos geométricos tradicionales.,850,50,http://localhost/prestashop/img/Imagenes/Ropa/12.jpeg
+113,Ropa,Camiseta de algodón orgánico,Camiseta fabricada con algodón orgánico teñida y cosida a mano con costuras decorativas.,370,50,http://localhost/prestashop/img/Imagenes/Ropa/13.jpeg
+114,Ropa,Pantalones de lino,Pantalones de lino ligero cosidos a mano con un cinturón trenzado de algodón.,610,50,http://localhost/prestashop/img/Imagenes/Ropa/14.jpeg
+115,Ropa,Poncho de lana de oveja,Poncho hecho a mano con lana de oveja teñido con pigmentos naturales y rematado con flecos.,900,50,http://localhost/prestashop/img/Imagenes/Ropa/15.jpeg
+116,Ropa,Bufanda de alpaca tejida,Bufanda de lana de alpaca tejida a mano con un acabado suave y cálido.,430,50,http://localhost/prestashop/img/Imagenes/Ropa/16.jpeg
+117,Ropa,Guantes de lana,Guantes tejidos a mano con lana de oveja con detalles bordados en los puños.,280,50,http://localhost/prestashop/img/Imagenes/Ropa/17.jpeg
+118,Ropa,Falda de algodón,Falda de algodón natural teñida y cosida a mano con elástico ajustable.,560,50,http://localhost/prestashop/img/Imagenes/Ropa/18.jpeg
+119,Ropa,Blusa de seda pintada,Blusa de seda natural pintada a mano con diseños florales.,780,50,http://localhost/prestashop/img/Imagenes/Ropa/19.jpeg
+120,Ropa,Chal de lana bordado,Chal hecho a mano con lana natural con bordados a mano en los bordes.,845,50,http://localhost/prestashop/img/Imagenes/Ropa/20.jpeg
+121,Vajilla,Juego de tazas de cerámica,Tazas de cerámica esmaltada moldeadas y decoradas a mano con esmalte mate.,540,50,http://localhost/prestashop/img/Imagenes/Vajilla/21.jpeg
+122,Vajilla,Plato de barro cocido,Plato hecho de barro cocido a mano con acabado rústico y esmalte natural.,430,50,http://localhost/prestashop/img/Imagenes/Vajilla/22.jpeg
+123,Vajilla,Jarra de cerámica vidriada,Jarra de cerámica hecha a mano vidriada con esmaltes a base de minerales.,610,50,http://localhost/prestashop/img/Imagenes/Vajilla/23.jpeg
+124,Vajilla,Set de cubiertos de bambú,Set de cubiertos de bambú tallado y pulido a mano para un acabado suave.,365,50,http://localhost/prestashop/img/Imagenes/Vajilla/24.jpeg
+125,Vajilla,Bol de madera tallada,Bol hecho a mano de madera de acacia tallado y acabado con aceite natural para preservar la textura.,500,50,http://localhost/prestashop/img/Imagenes/Vajilla/25.jpeg
+126,Vajilla,Vaso de vidrio reciclado,Vaso soplado a mano con vidrio reciclado con detalles de burbujas naturales en el acabado.,280,50,http://localhost/prestashop/img/Imagenes/Vajilla/26.jpeg
+127,Vajilla,Fuente de barro esmaltada,Fuente de barro hecha a mano decorada con esmalte vidriado y cocida a alta temperatura.,720,50,http://localhost/prestashop/img/Imagenes/Vajilla/27.jpeg
+128,Vajilla,Cucharón de madera tallada,Cucharón de madera tallada a mano con mango decorado con grabados tradicionales.,340,50,http://localhost/prestashop/img/Imagenes/Vajilla/28.jpeg
+129,Vajilla,Tazón de cerámica pintada,Tazón de cerámica hecho y pintado a mano con diseños de líneas geométricas.,390,50,http://localhost/prestashop/img/Imagenes/Vajilla/29.jpeg
+130,Vajilla,Juego de platos de cerámica,Juego de platos de cerámica hechos a mano con acabados en esmalte mate de colores neutros.,670,50,http://localhost/prestashop/img/Imagenes/Vajilla/30.jpeg
+131,Decoraciones,Lámpara de mimbre tejida,Lámpara de techo tejida a mano con mimbre natural con detalles decorativos en fibras de algodón.,900,50,http://localhost/prestashop/img/Imagenes/Decoraciones/31.jpeg
+132,Decoraciones,Espejo con marco de bambú,Espejo redondo con marco hecho a mano de bambú pulido y tratado con aceites naturales.,750,50,http://localhost/prestashop/img/Imagenes/Decoraciones/32.jpeg
+133,Decoraciones,Alfombra de lana tejida,Alfombra hecha a mano con lana de oveja tejida en telar tradicional.,990,50,http://localhost/prestashop/img/Imagenes/Decoraciones/33.jpeg
+134,Decoraciones,Macetero de barro pintado,Macetero de barro cocido y pintado a mano con motivos florales en tonos vivos.,415,50,http://localhost/prestashop/img/Imagenes/Decoraciones/34.jpeg
+135,Decoraciones,Tapiz de macramé,Tapiz decorativo de macramé hecho a mano con hilos de algodón natural.,660,50,http://localhost/prestashop/img/Imagenes/Decoraciones/35.jpeg
+136,Decoraciones,Candelabro de hierro forjado,Candelabro de hierro forjado a mano con detalles curvados y base de madera reciclada.,540,50,http://localhost/prestashop/img/Imagenes/Decoraciones/36.jpeg
+137,Decoraciones,Cuadro de madera tallada,Cuadro de madera tallada a mano con diseño floral en relieve.,820,50,http://localhost/prestashop/img/Imagenes/Decoraciones/37.jpeg
+138,Decoraciones,Cojín bordado a mano,Cojín de algodón relleno bordado a mano con patrones geométricos.,580,50,http://localhost/prestashop/img/Imagenes/Decoraciones/38.jpeg
+139,Decoraciones,Jarrón de cerámica rústica,Jarrón de cerámica hecho a mano con acabado rústico y esmalte craquelado.,395,50,http://localhost/prestashop/img/Imagenes/Decoraciones/39.jpeg
+140,Decoraciones,Reloj de pared de madera,Reloj de pared hecho a mano de madera reciclada con detalles tallados y pintados.,870,50,http://localhost/prestashop/img/Imagenes/Decoraciones/40.jpeg
+141,Destilados,Whisky artesanal,Whisky destilado en pequeños lotes añejado en barricas de roble durante 5 años.,950,50,http://localhost/prestashop/img/Imagenes/Destilados/41.jpeg
+142,Destilados,Ginebra con botánicos locales,Ginebra artesanal destilada con botánicos locales como enebro y hierbas frescas.,780,50,http://localhost/prestashop/img/Imagenes/Destilados/42.jpeg
+143,Destilados,Ron añejo,Ron artesanal añejado en barricas de roble durante 7 años con notas de vainilla y caramelo.,890,50,http://localhost/prestashop/img/Imagenes/Destilados/43.jpeg
+144,Destilados,Vodka de papa,Vodka destilado de papas locales con un proceso de destilación triple para mayor pureza.,680,50,http://localhost/prestashop/img/Imagenes/Destilados/44.jpeg
+145,Destilados,Mezcal de agave silvestre,Mezcal destilado de agave silvestre con notas ahumadas y afrutadas producido en pequeñas cantidades.,920,50,http://localhost/prestashop/img/Imagenes/Destilados/45.jpeg
+146,Arte,Pintura en lienzo abstracto,Pintura al óleo sobre lienzo con motivos abstractos de colores vivos pintada a mano.,970,50,http://localhost/prestashop/img/Imagenes/Arte/46.jpeg
+147,Arte,Escultura de barro,Escultura de barro cocido a mano con acabados naturales y textura rústica.,650,50,http://localhost/prestashop/img/Imagenes/Arte/47.jpeg
+148,Arte,Grabado en madera,Grabado hecho a mano en madera con detalles de líneas geométricas talladas en relieve.,760,50,http://localhost/prestashop/img/Imagenes/Arte/48.jpeg
+149,Arte,Cerámica escultórica,Obra escultórica en cerámica hecha a mano con formas abstractas y esmalte brillante.,850,50,http://localhost/prestashop/img/Imagenes/Arte/49.jpeg
+150,Arte,Acuarela paisajística,Acuarela pintada a mano sobre papel de algodón con paisajes naturales y detalles sutiles.,510,50,http://localhost/prestashop/img/Imagenes/Arte/50.jpeg

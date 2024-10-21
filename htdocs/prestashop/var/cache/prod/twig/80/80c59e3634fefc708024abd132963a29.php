@@ -151,6 +151,6 @@ class __TwigTemplate_cdcf36a97528e63dd0eb523d4bfa3316 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/file_uploader.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\file_uploader.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/file_uploader.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\file_uploader.html.twig");
     }
 }

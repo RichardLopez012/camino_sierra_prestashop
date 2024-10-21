@@ -554,6 +554,6 @@ class __TwigTemplate_c24715c349d82f1198cdd9b79a0a2a38 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/bootstrap_4_horizontal_layout.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\bootstrap_4_horizontal_layout.html.twig");
+        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/bootstrap_4_horizontal_layout.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\bootstrap_4_horizontal_layout.html.twig");
     }
 }

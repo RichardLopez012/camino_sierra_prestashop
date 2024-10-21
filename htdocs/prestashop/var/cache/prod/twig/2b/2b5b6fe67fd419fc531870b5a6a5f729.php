@@ -67,6 +67,6 @@ class __TwigTemplate_19e8bb52989f2809b5bdb5f666279662 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/fonts/Blocks/FontCustomization/font_customization_description.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\fonts\\Blocks\\FontCustomization\\font_customization_description.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/fonts/Blocks/FontCustomization/font_customization_description.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\fonts\\Blocks\\FontCustomization\\font_customization_description.html.twig");
     }
 }

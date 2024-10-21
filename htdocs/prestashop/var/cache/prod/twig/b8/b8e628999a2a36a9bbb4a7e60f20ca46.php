@@ -78,6 +78,6 @@ class __TwigTemplate_6560427a911f0a3eccff1c2c716d2246 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/logos/Blocks/Logo/logo_description.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\logos\\Blocks\\Logo\\logo_description.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/logos/Blocks/Logo/logo_description.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\logos\\Blocks\\Logo\\logo_description.html.twig");
     }
 }

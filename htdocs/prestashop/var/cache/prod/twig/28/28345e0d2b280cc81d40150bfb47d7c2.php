@@ -307,6 +307,6 @@ $context["action"]]);
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/Common/Grid/Columns/Content/action.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Common\\Grid\\Columns\\Content\\action.html.twig");
+        return new Source("", "@PrestaShop/Admin/Common/Grid/Columns/Content/action.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Common\\Grid\\Columns\\Content\\action.html.twig");
     }
 }

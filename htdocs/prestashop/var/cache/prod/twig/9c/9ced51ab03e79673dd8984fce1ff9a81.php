@@ -53,6 +53,6 @@ class __TwigTemplate_dbada32d2fadfe162dcacfe7302b1345 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/dashboard_notification.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\dashboard_notification.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/dashboard_notification.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\dashboard_notification.html.twig");
     }
 }

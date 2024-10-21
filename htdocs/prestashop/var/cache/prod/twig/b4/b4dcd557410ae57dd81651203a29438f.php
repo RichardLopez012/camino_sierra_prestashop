@@ -133,6 +133,6 @@ class __TwigTemplate_f19dbc0edee607d5bd8edaae8880ece3 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/color_input.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\color_input.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/color_input.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\color_input.html.twig");
     }
 }

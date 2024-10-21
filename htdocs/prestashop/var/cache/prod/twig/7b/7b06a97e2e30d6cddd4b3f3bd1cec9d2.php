@@ -340,6 +340,6 @@ $this->env->getRuntime('Symfony\Component\Form\FormRenderer')->searchAndRenderBl
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/entity_search_input.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\entity_search_input.html.twig");
+        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/entity_search_input.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\entity_search_input.html.twig");
     }
 }

@@ -37,7 +37,7 @@ class __TwigTemplate_018cabb1e420f53a4ea802623a5872ef extends Template
         echo "
 ";
         // line 26
-        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", 26, "1122394822")->display(twig_array_merge($context, ["id" => "import_theme_from_computer_modal", "closable" => true]));
+        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", 26, "2134192671")->display(twig_array_merge($context, ["id" => "import_theme_from_computer_modal", "closable" => true]));
     }
 
     public function getTemplateName()
@@ -57,13 +57,13 @@ class __TwigTemplate_018cabb1e420f53a4ea802623a5872ef extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_computer_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_computer_modal.html.twig");
     }
 }
 
 
 /* @Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig */
-class __TwigTemplate_018cabb1e420f53a4ea802623a5872ef___1122394822 extends Template
+class __TwigTemplate_018cabb1e420f53a4ea802623a5872ef___2134192671 extends Template
 {
     private $source;
     private $macros = [];
@@ -175,6 +175,6 @@ class __TwigTemplate_018cabb1e420f53a4ea802623a5872ef___1122394822 extends Templ
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_computer_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_computer_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_computer_modal.html.twig");
     }
 }

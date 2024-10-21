@@ -37,7 +37,7 @@ class __TwigTemplate_2238f06b1fe0c0b2d1cea66670692160 extends Template
         echo "
 ";
         // line 26
-        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", 26, "1139428020")->display(twig_array_merge($context, ["id" => "import_theme_from_ftp_modal", "closable" => true]));
+        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", 26, "1949458328")->display(twig_array_merge($context, ["id" => "import_theme_from_ftp_modal", "closable" => true]));
     }
 
     public function getTemplateName()
@@ -57,13 +57,13 @@ class __TwigTemplate_2238f06b1fe0c0b2d1cea66670692160 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_ftp_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_ftp_modal.html.twig");
     }
 }
 
 
 /* @Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig */
-class __TwigTemplate_2238f06b1fe0c0b2d1cea66670692160___1139428020 extends Template
+class __TwigTemplate_2238f06b1fe0c0b2d1cea66670692160___1949458328 extends Template
 {
     private $source;
     private $macros = [];
@@ -199,6 +199,6 @@ class __TwigTemplate_2238f06b1fe0c0b2d1cea66670692160___1139428020 extends Templ
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_ftp_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/import_theme_from_ftp_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\import_theme_from_ftp_modal.html.twig");
     }
 }

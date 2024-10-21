@@ -69,6 +69,6 @@ class __TwigTemplate_d41dcb5168bb933e66f5cd58e9c622b6 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/Partials/file_uploader_preview_template.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\Partials\\file_uploader_preview_template.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/Partials/file_uploader_preview_template.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\Partials\\file_uploader_preview_template.html.twig");
     }
 }

@@ -37,7 +37,7 @@ class __TwigTemplate_82582889818d19b66a3a367ec9134090 extends Template
         echo "
 ";
         // line 26
-        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", 26, "1892249769")->display(twig_array_merge($context, ["id" => "delete_theme_modal", "closable" => true]));
+        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", 26, "108188301")->display(twig_array_merge($context, ["id" => "delete_theme_modal", "closable" => true]));
     }
 
     public function getTemplateName()
@@ -57,13 +57,13 @@ class __TwigTemplate_82582889818d19b66a3a367ec9134090 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\delete_theme_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\delete_theme_modal.html.twig");
     }
 }
 
 
 /* @Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig */
-class __TwigTemplate_82582889818d19b66a3a367ec9134090___1892249769 extends Template
+class __TwigTemplate_82582889818d19b66a3a367ec9134090___108188301 extends Template
 {
     private $source;
     private $macros = [];
@@ -166,6 +166,6 @@ class __TwigTemplate_82582889818d19b66a3a367ec9134090___1892249769 extends Templ
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\delete_theme_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/delete_theme_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\delete_theme_modal.html.twig");
     }
 }

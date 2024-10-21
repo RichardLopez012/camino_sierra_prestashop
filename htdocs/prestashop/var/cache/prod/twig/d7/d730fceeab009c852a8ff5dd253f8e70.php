@@ -101,6 +101,6 @@ class __TwigTemplate_9c2ebda5d75228b8f1d6b79c60995be5 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/logos/Blocks/Partials/logo_form_text.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\logos\\Blocks\\Partials\\logo_form_text.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/logos/Blocks/Partials/logo_form_text.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\logos\\Blocks\\Partials\\logo_form_text.html.twig");
     }
 }

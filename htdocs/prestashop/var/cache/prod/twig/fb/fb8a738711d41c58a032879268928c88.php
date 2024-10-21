@@ -904,6 +904,6 @@ array_key_exists("type", $context)) ? (_twig_default_filter(($context["type"] ??
 
     public function getSourceContext()
     {
-        return new Source("", "bootstrap_4_layout.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\vendor\\symfony\\symfony\\src\\Symfony\\Bridge\\Twig\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
+        return new Source("", "bootstrap_4_layout.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\symfony\\symfony\\src\\Symfony\\Bridge\\Twig\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
     }
 }

@@ -244,6 +244,6 @@ $context["action"], "type", [], "any", true, true, false, 68) && (twig_get_attri
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/Helpers/bootstrap_popup.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Helpers\\bootstrap_popup.html.twig");
+        return new Source("", "@PrestaShop/Admin/Helpers/bootstrap_popup.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Helpers\\bootstrap_popup.html.twig");
     }
 }

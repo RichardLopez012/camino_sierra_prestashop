@@ -256,6 +256,6 @@ class __TwigTemplate_861246f8a8d95da64e71aa31246ef5a8 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/translatable_choice.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\translatable_choice.html.twig");
+        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/translatable_choice.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\translatable_choice.html.twig");
     }
 }

@@ -1,4 +1,4 @@
-#!"\PrestashopXAMPP\perl\bin\perl.exe"
+#!"\camino_sierra_prestashop\perl\bin\perl.exe"
 
 print "Content-Type: text/html\n\n";
 

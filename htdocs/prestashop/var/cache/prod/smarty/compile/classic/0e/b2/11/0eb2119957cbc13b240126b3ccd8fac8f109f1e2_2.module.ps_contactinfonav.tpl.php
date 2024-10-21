@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-10-14 01:50:06
+/* Smarty version 4.3.4, created on 2024-10-21 01:14:55
   from 'module:ps_contactinfonav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_670ccd2ea35198_53562788',
+  'unifunc' => 'content_6715ff6fd561d0_10935179',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670ccd2ea35198_53562788 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\PrestashopXAMPP\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),));
+function content_6715ff6fd561d0_10935179 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),));
 ?>
 <div id="_desktop_contact_link">
   <div id="contact-link">

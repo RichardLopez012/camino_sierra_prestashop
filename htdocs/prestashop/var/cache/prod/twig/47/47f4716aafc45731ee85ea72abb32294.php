@@ -152,6 +152,6 @@ $context["loop"], "parent", [], "any", false, false, false, 42), "loop", [], "an
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/colors/Blocks/Colors/colors_content.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\colors\\Blocks\\Colors\\colors_content.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/colors/Blocks/Colors/colors_content.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\colors\\Blocks\\Colors\\colors_content.html.twig");
     }
 }

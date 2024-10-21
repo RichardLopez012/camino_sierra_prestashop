@@ -1,4 +1,4 @@
-#!\PrestashopXAMPP\php\.\php.exe
+#!\camino_sierra_prestashop\php\.\php.exe
 <?php
 /**
  * Get the Compatibility info from PHP CLI

@@ -134,6 +134,6 @@ class __TwigTemplate_cb0549344791ef59938c2ca0ed45d48f extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/Common/Grid/grid.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Common\\Grid\\grid.html.twig");
+        return new Source("", "@PrestaShop/Admin/Common/Grid/grid.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Common\\Grid\\grid.html.twig");
     }
 }

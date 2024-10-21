@@ -82,6 +82,6 @@ class __TwigTemplate_44a3391ef01b61c7de2273fb79a76e52 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/components/alert_notification.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\alert_notification.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/components/alert_notification.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\components\\alert_notification.html.twig");
     }
 }

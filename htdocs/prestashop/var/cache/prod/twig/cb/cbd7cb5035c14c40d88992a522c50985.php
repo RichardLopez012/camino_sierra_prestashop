@@ -190,6 +190,6 @@ class __TwigTemplate_0b8a4c1293ad50398daf28d28cbf6a91 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/index.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\index.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/index.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\index.html.twig");
     }
 }

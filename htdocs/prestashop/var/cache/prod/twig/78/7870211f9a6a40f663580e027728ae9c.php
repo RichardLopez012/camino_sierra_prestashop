@@ -37,7 +37,7 @@ class __TwigTemplate_772bda7137435554dac852aa11a374e4 extends Template
         echo "
 ";
         // line 26
-        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", 26, "1878643169")->display(twig_array_merge($context, ["id" => "use_theme_modal", "closable" => true]));
+        $this->loadTemplate("@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", 26, "651631846")->display(twig_array_merge($context, ["id" => "use_theme_modal", "closable" => true]));
     }
 
     public function getTemplateName()
@@ -57,13 +57,13 @@ class __TwigTemplate_772bda7137435554dac852aa11a374e4 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\use_theme_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\use_theme_modal.html.twig");
     }
 }
 
 
 /* @Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig */
-class __TwigTemplate_772bda7137435554dac852aa11a374e4___1878643169 extends Template
+class __TwigTemplate_772bda7137435554dac852aa11a374e4___651631846 extends Template
 {
     private $source;
     private $macros = [];
@@ -190,6 +190,6 @@ class __TwigTemplate_772bda7137435554dac852aa11a374e4___1878643169 extends Templ
 
     public function getSourceContext()
     {
-        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "C:\\PrestashopXAMPP\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\use_theme_modal.html.twig");
+        return new Source("", "@Modules/psxdesign/views/templates/admin/themes/Blocks/Modals/use_theme_modal.html.twig", "C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\views\\templates\\admin\\themes\\Blocks\\Modals\\use_theme_modal.html.twig");
     }
 }
