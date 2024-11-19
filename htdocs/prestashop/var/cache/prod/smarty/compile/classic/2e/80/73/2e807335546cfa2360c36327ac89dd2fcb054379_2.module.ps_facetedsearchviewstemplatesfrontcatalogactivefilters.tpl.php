@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-10-21 01:14:55
+/* Smarty version 4.3.4, created on 2024-11-18 22:09:28
   from 'module:ps_facetedsearchviewstemplatesfrontcatalogactivefilters.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6715ff6fb0f891_66188996',
+  'unifunc' => 'content_673c0f7842c079_92158621',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2e807335546cfa2360c36327ac89dd2fcb054379' => 
     array (
       0 => 'module:ps_facetedsearchviewstemplatesfrontcatalogactivefilters.tpl',
-      1 => 1717158569,
+      1 => 1731959778,
       2 => 'module',
     ),
   ),
@@ -20,14 +20,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6715ff6fb0f891_66188996 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c0f7842c079_92158621 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 <section id="js-active-search-filters" class="<?php if (smarty_modifier_count($_smarty_tpl->tpl_vars['activeFilters']->value)) {?>active_filters<?php } else { ?>hide<?php }?>">
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1030449946715ff6faff5e7_09825268', 'active_filters_title');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1758907443673c0f784275d3_39394152', 'active_filters_title');
 ?>
 
 
@@ -40,7 +40,7 @@ if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['filter']->value)
 $_smarty_tpl->tpl_vars['filter']->do_else = false;
 ?>
         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16908667066715ff6fb09b44_24391706', 'active_filters_item');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_437438559673c0f78429ea5_59136123', 'active_filters_item');
 ?>
 
       <?php
@@ -51,12 +51,12 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 </section>
 <?php }
 /* {block 'active_filters_title'} */
-class Block_1030449946715ff6faff5e7_09825268 extends Smarty_Internal_Block
+class Block_1758907443673c0f784275d3_39394152 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'active_filters_title' => 
   array (
-    0 => 'Block_1030449946715ff6faff5e7_09825268',
+    0 => 'Block_1758907443673c0f784275d3_39394152',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -70,12 +70,12 @@ $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop
 }
 /* {/block 'active_filters_title'} */
 /* {block 'active_filters_item'} */
-class Block_16908667066715ff6fb09b44_24391706 extends Smarty_Internal_Block
+class Block_437438559673c0f78429ea5_59136123 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'active_filters_item' => 
   array (
-    0 => 'Block_16908667066715ff6fb09b44_24391706',
+    0 => 'Block_437438559673c0f78429ea5_59136123',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-10-21 01:27:02
+/* Smarty version 4.3.4, created on 2024-11-18 22:09:57
   from 'module:productcommentsviewstemplateshookaveragegradestars.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_671602462f25a2_94993112',
+  'unifunc' => 'content_673c0f95911d96_94988966',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '03235412c82fe3af55539163b9c3686a7a1ffea4' => 
     array (
       0 => 'module:productcommentsviewstemplateshookaveragegradestars.tpl',
-      1 => 1713967824,
+      1 => 1731984462,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_671602462f25a2_94993112 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c0f95911d96_94988966 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['nb_comments']->value != 0) {?>
   <div class="comments-note">
     <span><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Grade','d'=>'Modules.Productcomments.Shop'),$_smarty_tpl ) );?>

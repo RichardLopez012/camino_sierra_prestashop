@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\wamp64\www\810bom\admin1" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c59a58619ab245e6a3bab196eb6cf51a">
+        <source>View more items</source>
+        <target>View more items</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4f7ceab8363a729e0d0d9ad77d3e6caf">
+        <source> View less items </source>
+        <target> View less items </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contact us</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd8c84ae3dc95566dc071d0effc40dd2">
+        <source>Our Products</source>
+        <target>Our Products</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

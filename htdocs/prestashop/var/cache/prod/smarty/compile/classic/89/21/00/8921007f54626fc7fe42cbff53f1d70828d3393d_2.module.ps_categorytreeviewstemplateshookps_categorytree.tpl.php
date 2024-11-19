@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-10-21 01:14:56
+/* Smarty version 4.3.4, created on 2024-11-18 22:09:28
   from 'module:ps_categorytreeviewstemplateshookps_categorytree.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6715ff7006b842_81487337',
+  'unifunc' => 'content_673c0f78704389_35139926',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6715ff7006b842_81487337 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c0f78704389_35139926 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'categories' => 
   array (
     'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classic\\89\\21\\00\\8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.ps_categorytreeviewstemplateshookps_categorytree.tpl.php',
     'uid' => '8921007f54626fc7fe42cbff53f1d70828d3393d',
-    'call_name' => 'smarty_template_function_categories_1851587496715ff70060126_22234888',
+    'call_name' => 'smarty_template_function_categories_835407870673c0f786f90b9_80614531',
   ),
 ));
 ?>
@@ -44,9 +44,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
   </ul>
 </div>
 <?php }
-/* smarty_template_function_categories_1851587496715ff70060126_22234888 */
-if (!function_exists('smarty_template_function_categories_1851587496715ff70060126_22234888')) {
-function smarty_template_function_categories_1851587496715ff70060126_22234888(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_categories_835407870673c0f786f90b9_80614531 */
+if (!function_exists('smarty_template_function_categories_835407870673c0f786f90b9_80614531')) {
+function smarty_template_function_categories_835407870673c0f786f90b9_80614531(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -76,5 +76,5 @@ $_smarty_tpl->tpl_vars['node']->do_else = false;
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></ul><?php }
 }}
-/*/ smarty_template_function_categories_1851587496715ff70060126_22234888 */
+/*/ smarty_template_function_categories_835407870673c0f786f90b9_80614531 */
 }
