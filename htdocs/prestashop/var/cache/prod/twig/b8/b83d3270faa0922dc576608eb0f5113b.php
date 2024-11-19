@@ -37,7 +37,7 @@ class __TwigTemplate_49a45db934e13b70ee8f4029e144f506 extends Template
         echo "
 ";
         // line 26
-        $this->loadTemplate("@PrestaShop/Admin/Sell/Order/Order/Blocks/change_orders_status_modal.html.twig", "@PrestaShop/Admin/Sell/Order/Order/Blocks/change_orders_status_modal.html.twig", 26, "1628178490")->display(twig_array_merge($context, ["id" => "changeOrdersStatusModal", "title" => $this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans("Choose an order status", [], "Admin.Orderscustomers.Feature"), "closable" => true, "actions" => [0 => ["type" => "button", "label" => $this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans("Update status", [], "Admin.Orderscustomers.Feature"), "class" => "btn btn-primary btn-lg js-submit-modal-form-btn"]]]));
+        $this->loadTemplate("@PrestaShop/Admin/Sell/Order/Order/Blocks/change_orders_status_modal.html.twig", "@PrestaShop/Admin/Sell/Order/Order/Blocks/change_orders_status_modal.html.twig", 26, "239245378")->display(twig_array_merge($context, ["id" => "changeOrdersStatusModal", "title" => $this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans("Choose an order status", [], "Admin.Orderscustomers.Feature"), "closable" => true, "actions" => [0 => ["type" => "button", "label" => $this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans("Update status", [], "Admin.Orderscustomers.Feature"), "class" => "btn btn-primary btn-lg js-submit-modal-form-btn"]]]));
     }
 
     public function getTemplateName()
@@ -63,7 +63,7 @@ class __TwigTemplate_49a45db934e13b70ee8f4029e144f506 extends Template
 
 
 /* @PrestaShop/Admin/Sell/Order/Order/Blocks/change_orders_status_modal.html.twig */
-class __TwigTemplate_49a45db934e13b70ee8f4029e144f506___1628178490 extends Template
+class __TwigTemplate_49a45db934e13b70ee8f4029e144f506___239245378 extends Template
 {
     private $source;
     private $macros = [];

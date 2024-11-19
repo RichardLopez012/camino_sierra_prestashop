@@ -43,7 +43,7 @@ class Ps_eventbus extends Module
     /**
      * @var string
      */
-    const VERSION = '3.1.2';
+    const VERSION = '3.2.1';
 
     const DEFAULT_ENV = '';
 
@@ -198,7 +198,7 @@ class Ps_eventbus extends Module
         $this->author = 'PrestaShop';
         $this->need_instance = 0;
         $this->bootstrap = true;
-        $this->version = '3.1.2';
+        $this->version = '3.2.1';
         $this->module_key = '7d76e08a13331c6c393755886ec8d5ce';
 
         parent::__construct();
@@ -633,7 +633,7 @@ class Ps_eventbus extends Module
         $product = $parameters['object'];
         if (isset($product->id)) {
             $synchronizationService->sendLiveSync('products', $product->id, 'upsert');
-            $synchronizationService->sendLiveSync('custom-product-carriers', $product->id, 'upsert');
+            $synchronizationService->sendLiveSync('custom_product_carriers', $product->id, 'upsert');
             $synchronizationService->sendLiveSync('stocks', $product->id, 'upsert');
 
             $synchronizationService->insertIncrementalSyncObject(
@@ -661,7 +661,7 @@ class Ps_eventbus extends Module
 
         if (isset($product->id)) {
             $synchronizationService->sendLiveSync('products', $product->id, 'upsert');
-            $synchronizationService->sendLiveSync('custom-product-carriers', $product->id, 'upsert');
+            $synchronizationService->sendLiveSync('custom_product_carriers', $product->id, 'upsert');
             $synchronizationService->sendLiveSync('stocks', $product->id, 'upsert');
 
             $synchronizationService->insertIncrementalSyncObject(
@@ -1176,7 +1176,7 @@ class Ps_eventbus extends Module
 
         if (isset($cartRule->id)) {
             $synchronizationService->sendLiveSync('cart_rules', $cartRule->id, 'delete');
-            $synchronizationService->insertIncrementalSyncObject(
+            $synchronizationService->insertDeletedObject(
                 $cartRule->id,
                 Config::COLLECTION_CART_RULES,
                 date(DATE_ATOM),
@@ -1689,7 +1689,7 @@ class Ps_eventbus extends Module
 
         if ($specificPrice instanceof SpecificPrice) {
             if (isset($specificPrice->id)) {
-                $synchronizationService->sendLiveSync('specific-prices', $specificPrice->id, 'upsert');
+                $synchronizationService->sendLiveSync('specific_prices', $specificPrice->id, 'upsert');
                 $synchronizationService->insertIncrementalSyncObject(
                     $specificPrice->id,
                     Config::COLLECTION_SPECIFIC_PRICES,
@@ -1715,7 +1715,7 @@ class Ps_eventbus extends Module
 
         if ($specificPrice instanceof SpecificPrice) {
             if (isset($specificPrice->id)) {
-                $synchronizationService->sendLiveSync('specific-prices', $specificPrice->id, 'upsert');
+                $synchronizationService->sendLiveSync('specific_prices', $specificPrice->id, 'upsert');
                 $synchronizationService->insertIncrementalSyncObject(
                     $specificPrice->id,
                     Config::COLLECTION_SPECIFIC_PRICES,
@@ -1741,7 +1741,7 @@ class Ps_eventbus extends Module
 
         if ($specificPrice instanceof SpecificPrice) {
             if (isset($specificPrice->id)) {
-                $synchronizationService->sendLiveSync('specific-prices', $specificPrice->id, 'delete');
+                $synchronizationService->sendLiveSync('specific_prices', $specificPrice->id, 'delete');
                 $synchronizationService->insertDeletedObject(
                     $specificPrice->id,
                     Config::COLLECTION_SPECIFIC_PRICES,

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:09:57
+/* Smarty version 4.3.4, created on 2024-11-18 23:42:49
   from 'module:ps_categoryproductsviewstemplateshookps_categoryproducts.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c0f95b36a74_88915827',
+  'unifunc' => 'content_673c2559af7804_78617203',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,9 +21,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/productlist.tpl' => 1,
   ),
 ),false)) {
-function content_673c0f95b36a74_88915827 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c2559af7804_78617203 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
-$_smarty_tpl->compiled->nocache_hash = '1573183107673c0f95b32252_94206758';
+$_smarty_tpl->compiled->nocache_hash = '2000860290673c2559af35e5_22461835';
 ?>
 <section class="featured-products clearfix mt-3">
   <h2>

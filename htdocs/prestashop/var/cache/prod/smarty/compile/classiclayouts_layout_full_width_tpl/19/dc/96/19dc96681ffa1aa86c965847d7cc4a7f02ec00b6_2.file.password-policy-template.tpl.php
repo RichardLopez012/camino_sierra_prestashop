@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:09:30
+/* Smarty version 4.3.4, created on 2024-11-18 23:10:13
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\themes\classic\templates\_partials\password-policy-template.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c0f7a0b72e4_23739224',
+  'unifunc' => 'content_673c1db5039f18_55332373',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c0f7a0b72e4_23739224 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c1db5039f18_55332373 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <template id="password-feedback">

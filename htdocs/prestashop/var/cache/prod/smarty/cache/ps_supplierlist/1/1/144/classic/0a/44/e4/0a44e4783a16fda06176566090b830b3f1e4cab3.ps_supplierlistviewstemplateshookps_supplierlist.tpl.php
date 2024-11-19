@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:09:28
+/* Smarty version 4.3.4, created on 2024-11-18 23:20:58
   from 'module:ps_supplierlistviewstemplateshookps_supplierlist.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c0f787b9c85_69668661',
+  'unifunc' => 'content_673c203acaeac0_04369584',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,13 +24,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_673c0f787b9c85_69668661 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c203acaeac0_04369584 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
     'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classiclayouts_layout_left_column_tpl\\48\\c1\\2c\\48c12c0df0bb7f71632c96a128b2c272f4641730_2.file.helpers.tpl.php',
     'uid' => '48c12c0df0bb7f71632c96a128b2c272f4641730',
-    'call_name' => 'smarty_template_function_renderLogo_1417479076673c0f784b3ba5_15822421',
+    'call_name' => 'smarty_template_function_renderLogo_1686349961673c203a9decd6_67777774',
   ),
 ));
 ?>

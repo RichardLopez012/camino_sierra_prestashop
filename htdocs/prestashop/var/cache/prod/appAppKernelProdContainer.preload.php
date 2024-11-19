@@ -10,7 +10,7 @@ if (in_array(PHP_SAPI, ['cli', 'phpdbg'], true)) {
 }
 
 require dirname(__DIR__, 3).''.\DIRECTORY_SEPARATOR.'vendor/autoload.php';
-require __DIR__.'/Container1KaIMOF/appAppKernelProdContainer.php';
+require __DIR__.'/Container01J0Odq/appAppKernelProdContainer.php';
 
 $classes = [];
 $classes[] = 'Symfony\Bundle\FrameworkBundle\FrameworkBundle';
@@ -357,7 +357,6 @@ $classes[] = 'PrestaShop\Module\PsAccounts\Account\Session\ShopSession';
 $classes[] = 'PrestaShop\Module\PsAccounts\Adapter\Configuration';
 $classes[] = 'PrestaShop\Module\PsAccounts\Adapter\Link';
 $classes[] = 'PrestaShop\Module\PsAccounts\Api\Client\AccountsClient';
-$classes[] = 'PrestaShop\Module\PsAccounts\Api\Client\IndirectChannelClient';
 $classes[] = 'PrestaShop\Module\PsAccounts\Api\Client\ServicesBillingClient';
 $classes[] = 'PrestaShop\Module\PsAccounts\Context\ShopContext';
 $classes[] = 'PrestaShop\Module\PsAccounts\Cqrs\CommandBus';
@@ -2653,7 +2652,7 @@ $classes[] = 'Symfony\Component\PropertyInfo\Extractor\ReflectionExtractor';
 $classes[] = 'Symfony\Component\PropertyInfo\Extractor\SerializerExtractor';
 $classes[] = 'ps_metrics_module_v4_0_6\PrestaShop\PsAccountsInstaller\Installer\Facade\PsAccounts';
 $classes[] = 'ps_metrics_module_v4_0_6\PrestaShop\PsAccountsInstaller\Installer\Installer';
-$classes[] = 'Monolog\Logger';
+$classes[] = 'PrestaShop\Module\PsAccounts\Vendor\Monolog\Logger';
 $classes[] = 'PrestaShop\Module\PsAccounts\Factory\PsAccountsLogger';
 $classes[] = 'Ps_accounts';
 $classes[] = 'Module';

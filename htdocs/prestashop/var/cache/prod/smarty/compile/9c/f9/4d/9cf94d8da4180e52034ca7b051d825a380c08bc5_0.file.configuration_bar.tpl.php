@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:31:08
+/* Smarty version 4.3.4, created on 2024-11-18 23:33:37
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\administracion\themes\default\template\controllers\modules\configuration_bar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c148c41f9e4_76745880',
+  'unifunc' => 'content_673c2331292fd5_99535047',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c148c41f9e4_76745880 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c2331292fd5_99535047 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.regex_replace.php','function'=>'smarty_modifier_regex_replace',),));
 ?>
 

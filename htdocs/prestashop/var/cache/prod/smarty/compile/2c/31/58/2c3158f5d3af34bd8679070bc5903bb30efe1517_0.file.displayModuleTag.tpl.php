@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:07:36
+/* Smarty version 4.3.4, created on 2024-11-18 23:11:00
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\modules\psxdesign\views\templates\hook\displayModuleTag.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c0f089ec810_70144718',
+  'unifunc' => 'content_673c1de41dfa35_00543083',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c0f089ec810_70144718 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c1de41dfa35_00543083 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="module" src="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['src']->value,'htmlall','UTF-8' ));?>
 "><?php echo '</script'; ?>

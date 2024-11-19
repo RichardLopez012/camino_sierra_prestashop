@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:13:14
+/* Smarty version 4.3.4, created on 2024-11-18 23:46:57
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\modules\ps_checkout\views\templates\hook\adminAfterHeader\promotionBlock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c105a445664_85431149',
+  'unifunc' => 'content_673c2651125025_73464305',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c105a445664_85431149 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c2651125025_73464305 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="container">
     <div class="row">

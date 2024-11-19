@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 22:09:28
+/* Smarty version 4.3.4, created on 2024-11-18 23:10:12
   from 'module:ps_customeraccountlinksps_customeraccountlinks.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c0f789bcf09_58710539',
+  'unifunc' => 'content_673c1db4d7a233_37829465',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,13 +18,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_673c0f789bcf09_58710539 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c1db4d7a233_37829465 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
-    'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classiclayouts_layout_left_column_tpl\\48\\c1\\2c\\48c12c0df0bb7f71632c96a128b2c272f4641730_2.file.helpers.tpl.php',
+    'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classiclayouts_layout_full_width_tpl\\48\\c1\\2c\\48c12c0df0bb7f71632c96a128b2c272f4641730_2.file.helpers.tpl.php',
     'uid' => '48c12c0df0bb7f71632c96a128b2c272f4641730',
-    'call_name' => 'smarty_template_function_renderLogo_1417479076673c0f784b3ba5_15822421',
+    'call_name' => 'smarty_template_function_renderLogo_2089245978673c1db40353d4_73883121',
   ),
 ));
 ?>
@@ -52,7 +52,16 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
     Mis alertas
   </a>
 </li>
-
+<li class="col-lg-4 col-md-6 col-sm-6 col-xs-12" >
+    <a id="author-blog-comment-link" href="http://localhost/prestashop/module/ets_blog/comments" title="My blog comments">
+        <span class="link-item">
+            <span class="ss_icon_group">
+                <i class="fa fa-comments"></i>
+            </span>
+            My blog comments
+        </span>
+    </a>
+</li> 
        
 	</ul>
 </div>

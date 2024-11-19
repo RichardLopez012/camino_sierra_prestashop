@@ -58,7 +58,7 @@ class LiveSyncApiClient
     {
         return (new ClientFactory())->getClient([
             'allow_redirects' => true,
-            'connect_timeout' => 10,
+            'connect_timeout' => 5,
             'http_errors' => false,
             'timeout' => $timeout,
         ]);
@@ -73,6 +73,9 @@ class LiveSyncApiClient
      */
     public function liveSync($shopContent, $shopContentId, $action)
     {
+        // shop content send to the API must be in kebab-case
+        $kebabCasedShopContent = str_replace('_', '-', $shopContent);
+
         $response = $this->getClient(3)->sendRequest(
             new Request(
                 'POST',
@@ -83,7 +86,7 @@ class LiveSyncApiClient
                     'User-Agent' => 'ps-eventbus/' . $this->module->version,
                     'Content-Type' => 'application/json',
                 ],
-                '{"shopContents": ["' . $shopContent . '"], "shopContentId": ' . $shopContentId . ', "action": "' . $action . '"}'
+                '{"shopContents": ["' . $kebabCasedShopContent . '"], "shopContentId": ' . $shopContentId . ', "action": "' . $action . '"}'
             )
         );
 
