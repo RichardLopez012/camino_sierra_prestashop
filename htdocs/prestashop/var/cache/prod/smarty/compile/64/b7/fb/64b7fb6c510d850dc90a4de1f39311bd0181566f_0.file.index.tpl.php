@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 23:26:51
+/* Smarty version 4.3.4, created on 2024-11-19 01:53:18
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\modules\ps_themecusto\views\templates\admin\controllers\advanced\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c219be2d4e2_05394167',
+  'unifunc' => 'content_673c43ee2500f4_15349834',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./elem/modal.tpl' => 1,
   ),
 ),false)) {
-function content_673c219be2d4e2_05394167 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c43ee2500f4_15349834 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="psthemecusto">
     <div class="panel col-lg-12">

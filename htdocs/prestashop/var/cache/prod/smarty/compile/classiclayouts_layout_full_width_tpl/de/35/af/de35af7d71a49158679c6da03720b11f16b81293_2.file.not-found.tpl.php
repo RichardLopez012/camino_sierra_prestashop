@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-18 23:10:15
+/* Smarty version 4.3.4, created on 2024-11-19 01:48:34
   from 'C:\camino_sierra_prestashop\htdocs\prestashop\themes\classic\templates\errors\not-found.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c1db7781d34_92116124',
+  'unifunc' => 'content_673c42d26a3ee6_92659305',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,19 +20,19 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c1db7781d34_92116124 (Smarty_Internal_Template $_smarty_tpl) {
+function content_673c42d26a3ee6_92659305 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 <section id="content" class="page-content page-not-found">
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1395847551673c1db77756f2_55744612', 'page_content');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1832422952673c42d269b3f8_87670552', 'page_content');
 ?>
 
 </section>
 <?php }
 /* {block "error_content"} */
-class Block_1355620469673c1db77763f7_15854461 extends Smarty_Internal_Block
+class Block_968905764673c42d269c334_58158722 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -51,7 +51,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "error_content"} */
 /* {block 'search'} */
-class Block_587059212673c1db777d4c5_42679123 extends Smarty_Internal_Block
+class Block_1077572077673c42d26a0ca4_48868349 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -63,7 +63,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'search'} */
 /* {block 'hook_not_found'} */
-class Block_2095015956673c1db777fce4_14717628 extends Smarty_Internal_Block
+class Block_409977311673c42d26a2462_21760780 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -75,41 +75,41 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_not_found'} */
 /* {block 'page_content'} */
-class Block_1395847551673c1db77756f2_55744612 extends Smarty_Internal_Block
+class Block_1832422952673c42d269b3f8_87670552 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'page_content' => 
   array (
-    0 => 'Block_1395847551673c1db77756f2_55744612',
+    0 => 'Block_1832422952673c42d269b3f8_87670552',
   ),
   'error_content' => 
   array (
-    0 => 'Block_1355620469673c1db77763f7_15854461',
+    0 => 'Block_968905764673c42d269c334_58158722',
   ),
   'search' => 
   array (
-    0 => 'Block_587059212673c1db777d4c5_42679123',
+    0 => 'Block_1077572077673c42d26a0ca4_48868349',
   ),
   'hook_not_found' => 
   array (
-    0 => 'Block_2095015956673c1db777fce4_14717628',
+    0 => 'Block_409977311673c42d26a2462_21760780',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1355620469673c1db77763f7_15854461', "error_content", $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_968905764673c42d269c334_58158722', "error_content", $this->tplIndex);
 ?>
 
 
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_587059212673c1db777d4c5_42679123', 'search', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1077572077673c42d26a0ca4_48868349', 'search', $this->tplIndex);
 ?>
 
 
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2095015956673c1db777fce4_14717628', 'hook_not_found', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_409977311673c42d26a2462_21760780', 'hook_not_found', $this->tplIndex);
 ?>
 
   <?php

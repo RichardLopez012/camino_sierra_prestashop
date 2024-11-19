@@ -3920,20 +3920,23 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         $c = new \Doctrine\Persistence\Mapping\Driver\MappingDriverChain();
 
         $d = ($this->services['annotation_reader'] ?? ($this->services['annotation_reader'] = new \Doctrine\Common\Annotations\AnnotationReader()));
-        $e = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\productcomments\\src\\Entity']);
-        $e->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\productcomments\\src\\Entity/index.php']);
-        $f = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\src\\Entity']);
-        $f->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\src\\Entity/index.php']);
-        $g = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_accounts\\src\\Entity']);
-        $g->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_accounts\\src\\Entity/index.php']);
-        $h = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_checkout\\src\\Entity']);
-        $h->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_checkout\\src\\Entity/index.php']);
+        $e = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\doofinder\\src\\Entity']);
+        $e->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\doofinder\\src\\Entity/index.php']);
+        $f = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\productcomments\\src\\Entity']);
+        $f->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\productcomments\\src\\Entity/index.php']);
+        $g = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\src\\Entity']);
+        $g->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\psxdesign\\src\\Entity/index.php']);
+        $h = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_accounts\\src\\Entity']);
+        $h->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_accounts\\src\\Entity/index.php']);
+        $i = new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_checkout\\src\\Entity']);
+        $i->addExcludePaths([0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\modules\\ps_checkout\\src\\Entity/index.php']);
 
         $c->addDriver(new \Doctrine\ORM\Mapping\Driver\AnnotationDriver($d, [0 => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\src\\PrestaShopBundle\\Entity']), 'PrestaShop');
-        $c->addDriver($e, 'PrestaShop\\Module\\ProductComment\\Entity');
-        $c->addDriver($f, 'PrestaShop\\Module\\PsxDesign\\Entity');
-        $c->addDriver($g, 'PrestaShop\\Module\\PsAccounts\\Entity');
-        $c->addDriver($h, 'PrestaShop\\Module\\PrestashopCheckout\\Entity');
+        $c->addDriver($e, 'PrestaShop\\Module\\Doofinder\\Src\\Entity');
+        $c->addDriver($f, 'PrestaShop\\Module\\ProductComment\\Entity');
+        $c->addDriver($g, 'PrestaShop\\Module\\PsxDesign\\Entity');
+        $c->addDriver($h, 'PrestaShop\\Module\\PsAccounts\\Entity');
+        $c->addDriver($i, 'PrestaShop\\Module\\PrestashopCheckout\\Entity');
 
         $a->setEntityNamespaces(['PrestaShopBundle\\Entity' => 'PrestaShop']);
         $a->setMetadataCache($b);
@@ -3950,6 +3953,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         $a->setEntityListenerResolver(new \Doctrine\Bundle\DoctrineBundle\Mapping\ContainerEntityListenerResolver($this));
         $a->setRepositoryFactory(new \Doctrine\Bundle\DoctrineBundle\Repository\ContainerRepositoryFactory(new \Symfony\Component\DependencyInjection\ServiceLocator([])));
         $a->addCustomStringFunction('regexp', 'DoctrineExtensions\\Query\\Mysql\\Regexp');
+        $a->addEntityNamespace('Moduledoofinder', 'PrestaShop\\Module\\Doofinder\\Src\\Entity');
         $a->addEntityNamespace('Moduleproductcomments', 'PrestaShop\\Module\\ProductComment\\Entity');
         $a->addEntityNamespace('Modulepsxdesign', 'PrestaShop\\Module\\PsxDesign\\Entity');
         $a->addEntityNamespace('ModulepsAccounts', 'PrestaShop\\Module\\PsAccounts\\Entity');
@@ -5282,8 +5286,8 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 74 => 'ps_facetedsearch',
                 75 => 'ets_blog',
                 76 => 'ph_recommendbycategories',
-                77 => 'smartsupp',
-                78 => 'crisp',
+                77 => 'doofinder',
+                78 => 'ps_categorytree_mod',
             ],
             'ps_cache_dir' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',
