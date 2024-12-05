@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:30
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:17
   from 'module:ps_supplierlistviewstemplates_partialssupplier_text.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cebf70c1_54152637',
+  'unifunc' => 'content_67510a21c8e5e8_86088534',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b3c075d1bfb2c0c0cdc7430c741d12863681a16d' => 
     array (
       0 => 'module:ps_supplierlistviewstemplates_partialssupplier_text.tpl',
-      1 => 1708963242,
+      1 => 1728959126,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cebf70c1_54152637 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1195041473673c42cebf0036_48544111';
+function content_67510a21c8e5e8_86088534 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '5267234967510a21c8bdc5_88690438';
 ?>
 
 <ul>

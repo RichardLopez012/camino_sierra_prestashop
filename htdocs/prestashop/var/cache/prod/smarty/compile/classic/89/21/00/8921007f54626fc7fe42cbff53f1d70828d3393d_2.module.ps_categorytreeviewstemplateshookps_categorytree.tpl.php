@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:30
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:17
   from 'module:ps_categorytreeviewstemplateshookps_categorytree.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42ceb39513_98765069',
+  'unifunc' => 'content_67510a218c4e40_88192742',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '8921007f54626fc7fe42cbff53f1d70828d3393d' => 
     array (
       0 => 'module:ps_categorytreeviewstemplateshookps_categorytree.tpl',
-      1 => 1708963242,
+      1 => 1728959126,
       2 => 'module',
     ),
   ),
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42ceb39513_98765069 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67510a218c4e40_88192742 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'categories' => 
   array (
-    'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classic\\89\\21\\00\\8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.ps_categorytreeviewstemplateshookps_categorytree.tpl.php',
+    'compiled_filepath' => 'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classic\\89\\21\\00\\8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.ps_categorytreeviewstemplateshookps_categorytree.tpl.php',
     'uid' => '8921007f54626fc7fe42cbff53f1d70828d3393d',
-    'call_name' => 'smarty_template_function_categories_1922165360673c42ceb2c043_10340497',
+    'call_name' => 'smarty_template_function_categories_145722979867510a218bbec3_61693733',
   ),
 ));
 ?>
@@ -44,14 +44,14 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
   </ul>
 </div>
 <?php }
-/* smarty_template_function_categories_1922165360673c42ceb2c043_10340497 */
-if (!function_exists('smarty_template_function_categories_1922165360673c42ceb2c043_10340497')) {
-function smarty_template_function_categories_1922165360673c42ceb2c043_10340497(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_categories_145722979867510a218bbec3_61693733 */
+if (!function_exists('smarty_template_function_categories_145722979867510a218bbec3_61693733')) {
+function smarty_template_function_categories_145722979867510a218bbec3_61693733(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
 }
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 ?>
 
   <?php if (smarty_modifier_count($_smarty_tpl->tpl_vars['nodes']->value)) {?><ul class="category-sub-menu"><?php
@@ -76,5 +76,5 @@ $_smarty_tpl->tpl_vars['node']->do_else = false;
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></ul><?php }
 }}
-/*/ smarty_template_function_categories_1922165360673c42ceb2c043_10340497 */
+/*/ smarty_template_function_categories_145722979867510a218bbec3_61693733 */
 }

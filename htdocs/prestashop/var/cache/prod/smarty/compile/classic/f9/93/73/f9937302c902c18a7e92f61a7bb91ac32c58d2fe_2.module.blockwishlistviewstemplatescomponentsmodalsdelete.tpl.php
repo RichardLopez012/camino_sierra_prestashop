@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:31
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:19
   from 'module:blockwishlistviewstemplatescomponentsmodalsdelete.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cf304393_89527161',
+  'unifunc' => 'content_67510a23f100f6_03292841',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f9937302c902c18a7e92f61a7bb91ac32c58d2fe' => 
     array (
       0 => 'module:blockwishlistviewstemplatescomponentsmodalsdelete.tpl',
-      1 => 1731959786,
+      1 => 1728959108,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cf304393_89527161 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67510a23f100f6_03292841 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div
   class="wishlist-delete"

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:31
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:19
   from 'module:blockwishlistviewstemplateshookaccountmyaccountblock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cf246885_99557493',
+  'unifunc' => 'content_67510a23ad3812_44478864',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd3bea152bc88d6ad4c16c87750962bcaf4f57aa3' => 
     array (
       0 => 'module:blockwishlistviewstemplateshookaccountmyaccountblock.tpl',
-      1 => 1731959786,
+      1 => 1728959108,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cf246885_99557493 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67510a23ad3812_44478864 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['customer']->value['is_logged']) {?>
   <li>
     <a href="<?php echo htmlspecialchars((string) $_smarty_tpl->tpl_vars['url']->value, ENT_QUOTES, 'UTF-8');?>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:30
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:15
   from 'module:ps_facetedsearchviewstemplatesfrontcatalogactivefilters.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42ce6f0d32_85707400',
+  'unifunc' => 'content_67510a1fd36f81_18011244',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2e807335546cfa2360c36327ac89dd2fcb054379' => 
     array (
       0 => 'module:ps_facetedsearchviewstemplatesfrontcatalogactivefilters.tpl',
-      1 => 1731959778,
+      1 => 1728959114,
       2 => 'module',
     ),
   ),
@@ -20,14 +20,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42ce6f0d32_85707400 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
+function content_67510a1fd36f81_18011244 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 <section id="js-active-search-filters" class="<?php if (smarty_modifier_count($_smarty_tpl->tpl_vars['activeFilters']->value)) {?>active_filters<?php } else { ?>hide<?php }?>">
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_397298533673c42ce6cea92_53038021', 'active_filters_title');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_112753893067510a1fd28f30_85814134', 'active_filters_title');
 ?>
 
 
@@ -40,7 +40,7 @@ if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['filter']->value)
 $_smarty_tpl->tpl_vars['filter']->do_else = false;
 ?>
         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_318056187673c42ce6ec810_59445156', 'active_filters_item');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_190291709567510a1fd34369_77917806', 'active_filters_item');
 ?>
 
       <?php
@@ -51,16 +51,16 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 </section>
 <?php }
 /* {block 'active_filters_title'} */
-class Block_397298533673c42ce6cea92_53038021 extends Smarty_Internal_Block
+class Block_112753893067510a1fd28f30_85814134 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'active_filters_title' => 
   array (
-    0 => 'Block_397298533673c42ce6cea92_53038021',
+    0 => 'Block_112753893067510a1fd28f30_85814134',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 ?>
 
     <p class="h6 <?php if (smarty_modifier_count($_smarty_tpl->tpl_vars['activeFilters']->value)) {?>active-filter-title<?php } else { ?>hidden-xs-up<?php }?>"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Active filters','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
@@ -70,12 +70,12 @@ $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop
 }
 /* {/block 'active_filters_title'} */
 /* {block 'active_filters_item'} */
-class Block_318056187673c42ce6ec810_59445156 extends Smarty_Internal_Block
+class Block_190291709567510a1fd34369_77917806 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'active_filters_item' => 
   array (
-    0 => 'Block_318056187673c42ce6ec810_59445156',
+    0 => 'Block_190291709567510a1fd34369_77917806',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

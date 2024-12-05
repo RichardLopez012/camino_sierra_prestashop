@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:31
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:19
   from 'module:ps_customeraccountlinksps_customeraccountlinks.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cf22a154_42892600',
+  'unifunc' => 'content_67510a23862fb1_73737145',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:ps_customeraccountlinksps_customeraccountlinks.tpl',
-      1 => 1708963242,
+      1 => 1728959126,
       2 => 'module',
     ),
   ),
@@ -20,9 +20,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cf22a154_42892600 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
-$_smarty_tpl->compiled->nocache_hash = '1855249932673c42cf21a210_72720395';
+function content_67510a23862fb1_73737145 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
+$_smarty_tpl->compiled->nocache_hash = '108886592867510a23856cf2_72592371';
 ?>
 
 <div id="block_myaccount_infos" class="col-md-3 links wrapper">

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:31
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:19
   from 'module:ps_linklistviewstemplateshooklinkblock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cf1df5e8_96311306',
+  'unifunc' => 'content_67510a236f1498_22085169',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '906548e89c8c6025457ddaeffb1980a0c743b872' => 
     array (
       0 => 'module:ps_linklistviewstemplateshooklinkblock.tpl',
-      1 => 1708963242,
+      1 => 1728959126,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cf1df5e8_96311306 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1862555249673c42cf1d8e43_19376187';
+function content_67510a236f1498_22085169 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '25554432167510a236ed0e5_94539894';
 ?>
 <div class="col-md-6 links">
   <div class="row">

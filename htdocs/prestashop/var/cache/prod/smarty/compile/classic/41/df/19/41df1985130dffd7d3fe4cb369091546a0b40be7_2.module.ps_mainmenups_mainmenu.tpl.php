@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:48:30
+/* Smarty version 4.3.4, created on 2024-12-04 20:04:17
   from 'module:ps_mainmenups_mainmenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c42cea82d70_30756024',
+  'unifunc' => 'content_67510a213858f9_35092475',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '41df1985130dffd7d3fe4cb369091546a0b40be7' => 
     array (
       0 => 'module:ps_mainmenups_mainmenu.tpl',
-      1 => 1708963242,
+      1 => 1728959126,
       2 => 'module',
     ),
   ),
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c42cea82d70_30756024 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67510a213858f9_35092475 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu' => 
   array (
-    'compiled_filepath' => 'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classic\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.ps_mainmenups_mainmenu.tpl.php',
+    'compiled_filepath' => 'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classic\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.ps_mainmenups_mainmenu.tpl.php',
     'uid' => '41df1985130dffd7d3fe4cb369091546a0b40be7',
-    'call_name' => 'smarty_template_function_menu_83966914673c42cea5a0e9_46214950',
+    'call_name' => 'smarty_template_function_menu_96092919767510a2137b776_09942919',
   ),
 ));
 $_smarty_tpl->_assignInScope('_counter', 0);?>
@@ -38,14 +38,14 @@ $_smarty_tpl->_assignInScope('_counter', 0);?>
     <div class="clearfix"></div>
 </div>
 <?php }
-/* smarty_template_function_menu_83966914673c42cea5a0e9_46214950 */
-if (!function_exists('smarty_template_function_menu_83966914673c42cea5a0e9_46214950')) {
-function smarty_template_function_menu_83966914673c42cea5a0e9_46214950(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_menu_96092919767510a2137b776_09942919 */
+if (!function_exists('smarty_template_function_menu_96092919767510a2137b776_09942919')) {
+function smarty_template_function_menu_96092919767510a2137b776_09942919(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0,'parent'=>null), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
 }
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\Users\\173587\\Desktop\\camino_sierra_prestashop\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 ?>
 
     <?php if (smarty_modifier_count($_smarty_tpl->tpl_vars['nodes']->value)) {?>
@@ -96,5 +96,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
       </ul>
     <?php }
 }}
-/*/ smarty_template_function_menu_83966914673c42cea5a0e9_46214950 */
+/*/ smarty_template_function_menu_96092919767510a2137b776_09942919 */
 }

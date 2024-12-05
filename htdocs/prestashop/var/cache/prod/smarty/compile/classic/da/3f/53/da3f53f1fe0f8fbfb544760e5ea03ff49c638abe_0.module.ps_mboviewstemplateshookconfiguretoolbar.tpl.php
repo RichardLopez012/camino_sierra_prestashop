@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-11-19 01:47:16
+/* Smarty version 4.3.4, created on 2024-12-04 20:07:40
   from 'module:ps_mboviewstemplateshookconfiguretoolbar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_673c428482a974_36350117',
+  'unifunc' => 'content_67510aec7ee2d2_07420755',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'da3f53f1fe0f8fbfb544760e5ea03ff49c638abe' => 
     array (
       0 => 'module:ps_mboviewstemplateshookconfiguretoolbar.tpl',
-      1 => 1727254120,
+      1 => 1728959114,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_673c428482a974_36350117 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67510aec7ee2d2_07420755 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['configure_toolbar_extra_buttons']->value, 'configure_toolbar_extra_button');
 $_smarty_tpl->tpl_vars['configure_toolbar_extra_button']->do_else = true;
 if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['configure_toolbar_extra_button']->value) {
